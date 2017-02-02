@@ -1,0 +1,44 @@
+{
+    "dailyActivitiesInBank": [
+        {
+            "Bank_account": {
+                "Results_that_fit_your_needs": [
+                    {
+                        "ING_Lion_Account": "Specifically for private individuals,Compare Product"
+                    },
+                    {
+                        "ING_Green_Account": "Specifically for private individuals,Online on the move or at a branch,In euros and other currencies,Compare Product"
+                    },
+                    {
+                        "ING_go_to_18_Account": "Specifically for children and teens,Online, on the move or at a branch,Compare Product"
+                    },
+        {
+          "who_will_use_this_account":"An individual,A professional or a business,My child (under 18)"
+          },
+          {
+            "What_is_your_preferred_way_of_banking?":"I only need to access my account online and on my mobile device,I would like the flexibility to visit a branch in addition to online and mobile"
+          },
+          {
+            "Would you like to manage multiple currencies with your account?":"Yes, I handle multiple currencies at the same time,No, I don't need any multi-currency option"
+          }
+          ]
+              
+            }},
+        
+        {
+            "Credit_or_deposit_card": {
+                "Results_that_fit_your_needs": [
+                    {
+                        "ING_Deposit_Card": "Specifically for professionals and businesses,Compare Product"
+                    },
+                    {
+                        "ING_Corporate_Card_Solution": "Specifically for professionals and businesses,Compare Product"
+                    },
+                    {
+                        "ING_Visa_Classic": "Specifically for private individuals,Compare Product"
+                    }
+                ]
+            }
+        }
+    ]
+}
