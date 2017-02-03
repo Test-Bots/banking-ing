@@ -1,59 +1,42 @@
 {
-    "dailyActivitiesInBank": [
+  "dailyActivitiesInBank": [
+    {
+      "Bank_account": [
         {
+          "Who will use this account?": {
+            "An individual": [
+              {
+                "name1": "ING Lion Account"
+              },
+              {
+                "name2": "ING Green Account"
+              },
+              {
+                "name3": "ING Visa Classic"
+              }
+            ],
+            "A professional or a business":[
+                 
+                   {"name1":"ING Green Account for the self-employed"},
+                   {"name2":"ING Corporate Plus Account"},
+                   {"name3":"ING Business Account"}
+                   
 
-            "Bank_account": {
-              "Whowillusethisaccount?":
-              [{
-                "id1":"Anindividual",
-              
-                "name1":"ING Lion Account",
-                "name2":"ING Green Account",
-                "name3":"ING Visa Classic"
-                },
-                
-               
-                { "id2":"A professional or a business",
-                 
-                   "name1":"ING Green Account for the self-employed",
-                   "name2":"ING Corporate Plus Account",
-                   "name3":"ING Business Account"
-                   },
-                   
-             {"id3": "My child (under 18)",
+          ]},
+            "My child (under 18)":[
              
-                "name1":"ING go to 18 Account",
-                "name2":"ING Lion Account",
-                "name3":"ING Green Account"}],
-              
-               
-               "Whatisyourpreferredwayofbanking?":
-               [{
-                 
-                   "id1":"I only need to access my account online and on my mobile device",
-                "id2":"I would like the flexibility to visit a branch in addition to online and mobile"
-                }],
-                
-                 
-                 "Wouldyouliketomanagemultiplecurrencieswithyouraccount?":
-                 [{
-                   "id1":"Yes, I handle multiple currencies at the same time,No, I don't need any multi-currency option",
-                   "id2":"No, I don't need any multi-currency option"
-                 }]
-                   
-                 
-              
-            }},
-                 
-                 
-                 { "Results_that_fit_your_needs":
-                  {
-                    
-                        "ING_Lion_Account": "Specifically for private individuals,Compare Product",
-                    
-                    
-                        "ING_Green_Account": "Specifically for private individuals,Online on the move or at a branch,In euros and other currencies,Compare Product",
-                    
-                        "ING_go_to_18_Account": "Specifically for children and teens,Online, on the move or at a branch,Compare Product"
-                    }}
-                ]}
+                {"name1":"ING go to 18 Account"},
+                {"name2":"ING Lion Account"},
+                {"name3":"ING Green Account"}]
+        
+       }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
