@@ -5,22 +5,40 @@
             "Bank_account": {
               "Who will use this account?":
               [{
-              "An individual":"ING Lion Account,ING Green Account,ING Visa Classic"},
-               {"A professional or a business":"ING Green Account for the self-employed,ING Corporate Plus Account,ING Business Account"},
-              {"My child (under 18)":"ING go to 18 Account,ING Lion Account,ING Green Account"}],
+                "id1":"An individual",
+              
+                "name1":"ING Lion Account",
+                "name2":"ING Green Account",
+                "name3":"ING Visa Classic"
+                },
+                
+               
+                { "id2":"A professional or a business",
+                 
+                   "name1":"ING Green Account for the self-employed",
+                   "name2":"ING Corporate Plus Account",
+                   "name3":"ING Business Account"
+                   },
+                   
+             {"id3": "My child (under 18)",
+             
+                "name1":"ING go to 18 Account",
+                "name2":"ING Lion Account",
+                "name3":"ING Green Account"}],
               
                
                "What is your preferred way of banking?":
                [{
-                 "I only need to access my account online and on my mobile device":""},
-                {"I would like the flexibility to visit a branch in addition to online and mobile":"ING Green Account"
+                 
+                   "id1":"I only need to access my account online and on my mobile device",
+                "id2":"I would like the flexibility to visit a branch in addition to online and mobile"
                 }],
                 
                  
                  "Would you like to manage multiple currencies with your account?":
                  [{
-                   "Yes, I handle multiple currencies at the same time,No, I don't need any multi-currency option":""},
-                   {"No, I don't need any multi-currency option":""
+                   "id1":"Yes, I handle multiple currencies at the same time,No, I don't need any multi-currency option",
+                   "id2":"No, I don't need any multi-currency option"
                  }]
                    
                  
