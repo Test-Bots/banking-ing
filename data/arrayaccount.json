@@ -6,7 +6,8 @@
           "account": {
             "individual": [
               {
-                "name1": "ING Lion Account"
+                "name1": "ING Lion Account",
+                "link1": "https://www.ing.be/en/retail/daily-banking/current-accounts-and-their-cards/free-ane-online"
               },
               {
                 "name2": "ING Green Account"
