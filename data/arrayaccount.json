@@ -3,8 +3,8 @@
     {
       "Bank_account": [
         {
-          "Who will use this account?": {
-            "An individual": [
+          "account": {
+            "individual": [
               {
                 "name1": "ING Lion Account"
               },
@@ -15,7 +15,7 @@
                 "name3": "ING Visa Classic"
               }
             ],
-            "A professional or a business":[
+            "business":[
                  
                    {"name1":"ING Green Account for the self-employed"},
                    {"name2":"ING Corporate Plus Account"},
@@ -23,7 +23,7 @@
                    
 
           ]},
-            "My child (under 18)":[
+            "child":[
              
                 {"name1":"ING go to 18 Account"},
                 {"name2":"ING Lion Account"},
