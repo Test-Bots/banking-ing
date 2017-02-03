@@ -22,21 +22,15 @@
                    {"name3":"ING Business Account"}
                    
 
-          ]},
+          ],
             "child":[
              
                 {"name1":"ING go to 18 Account"},
                 {"name2":"ING Lion Account"},
-                {"name3":"ING Green Account"}]
+                {"name3":"ING Green Account"}]}
         
        }
       ]
     }
   ]
 }
-
-
-
-
-
-
