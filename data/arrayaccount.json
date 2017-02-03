@@ -3,9 +3,9 @@
         {
 
             "Bank_account": {
-              "Who will use this account?":
+              "Whowillusethisaccount?":
               [{
-                "id1":"An individual",
+                "id1":"Anindividual",
               
                 "name1":"ING Lion Account",
                 "name2":"ING Green Account",
@@ -27,7 +27,7 @@
                 "name3":"ING Green Account"}],
               
                
-               "What is your preferred way of banking?":
+               "Whatisyourpreferredwayofbanking?":
                [{
                  
                    "id1":"I only need to access my account online and on my mobile device",
@@ -35,7 +35,7 @@
                 }],
                 
                  
-                 "Would you like to manage multiple currencies with your account?":
+                 "Wouldyouliketomanagemultiplecurrencieswithyouraccount?":
                  [{
                    "id1":"Yes, I handle multiple currencies at the same time,No, I don't need any multi-currency option",
                    "id2":"No, I don't need any multi-currency option"
