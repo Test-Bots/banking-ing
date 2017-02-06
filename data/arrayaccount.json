@@ -1,37 +1,54 @@
 {
-  "dailyActivitiesInBank": [
-    {
-      "Bank_account": [
+    "dailyActivitiesInBank": [
         {
-          "account": {
-            "individual": [
-              {
-                "name1": "ING Lion Account",
-                "link1": "https://www.ing.be/en/retail/daily-banking/current-accounts-and-their-cards/free-ane-online"
-              },
-              {
-                "name2": "ING Green Account"
-              },
-              {
-                "name3": "ING Visa Classic"
-              }
-            ],
-            "business":[
-                 
-                   {"name1":"ING Green Account for the self-employed"},
-                   {"name2":"ING Corporate Plus Account"},
-                   {"name3":"ING Business Account"}
-                   
-
-          ],
-            "child":[
-             
-                {"name1":"ING go to 18 Account"},
-                {"name2":"ING Lion Account"},
-                {"name3":"ING Green Account"}]}
-        
-       }
-      ]
-    }
-  ]
+            "Bank_account": [
+                {
+                    "account": {
+                        "individual": [
+                            {
+                                "name1": "ING Lion Account",
+                                "link1": "https://www.ing.be/en/retail/daily-banking/current-accounts-and-their-cards/free-ane-online"
+                            },
+                            {
+                                "name2": "ING Green Account",
+                                "link2":"https://www.ing.be/en/retail/daily-banking/current-accounts-and-their-cards/green-account"
+                            },
+                            {
+                                "name3": "ING Visa Classic",
+                                "link3":"https://www.ing.be/en/retail/daily-banking/current-accounts-and-their-cards/youth-account"
+                            }
+                        ],
+                        "business": [
+                            {
+                                "name1": "ING Green Account for the self-employed",
+                                "link1":"https://www.ing.be/en/business/day-to-day-banking/current-accounts/current-account-for-self-employed-people"
+                            },
+                            {
+                                "name2": "ING Corporate Plus Account",
+                                "link2":"https://www.ing.be/en/business/day-to-day-banking/current-accounts/current-account-for-companies"
+                            },
+                            {
+                                "name3": "ING Business Account",
+                                "link3":"https://www.ing.be/en/business/day-to-day-banking/current-accounts/payment-account"
+                            }
+                        ],
+                        "child": [
+                            {
+                                "name1": "ING go to 18 Account",
+                                "link1":"https://www.ing.be/en/retail/daily-banking/current-accounts-and-their-cards/youth-account"
+                            },
+                            {
+                                "name2": "ING Lion Account",
+                                 "link2":"https://www.ing.be/en/retail/daily-banking/current-accounts-and-their-cards/free-ane-online"
+                            },
+                            {
+                                "name3": "ING Green Account",
+                                 "link3":"https://www.ing.be/en/retail/daily-banking/current-accounts-and-their-cards/green-account"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
 }
