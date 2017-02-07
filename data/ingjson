@@ -1,0 +1,54 @@
+{
+"banking":["Bank account","Credit or deposit card"],
+"account":[
+          {
+           "ing1": "ING Lion Account",
+           "link1": "https://www.ing.be/en/retail/daily-banking/current-accounts-and-their-cards/free-ane-online"},
+          {
+           "ing2": "ING Green Account",
+           "link2":"https://www.ing.be/en/retail/daily-banking/current-accounts-and-their-cards/green-account"
+          },
+          {
+           "ing3": "ING go to 18 Account",
+           "link3":"https://www.ing.be/en/retail/daily-banking/current-accounts-and-their-cards/youth-account"
+          },
+          {
+           "ing4": "ING Green Account for the self-employed",
+           "link4":"https://www.ing.be/en/business/day-to-day-banking/current-accounts/current-account-for-self-employed-people"
+          },
+          {
+            "ing5":"ING Corporate Plus Account",
+            "link5":"https://www.ing.be/en/business/day-to-day-banking/current-accounts/current-account-for-companies"
+          },
+          {
+            "ing6":"ING Business Account",
+            "link6":"https://www.ing.be/en/business/day-to-day-banking/current-accounts/payment-account"
+          }
+          ],
+"card":[
+        {
+         "ing1":"ING Deposit Card",
+         "link1":"https://www.ing.be/en/business/day-to-day-banking/cards/depositcard"},
+        {
+         "ing2":"ING Corporate Card Solution",
+         "link2":"https://www.ing.be/en/business/day-to-day-banking/cards/manage-expenses-efficiently"},
+        {
+         "ing3":"ING Visa Classic",
+         "link3":"https://www.ing.be/en/retail/daily-banking/credit-cards/visa-classic?"},
+        {
+         "ing4":"ING MasterCard Gold",
+         "link4":"https://www.ing.be/en/retail/daily-banking/credit-cards/visa-and-master-card-gold?"},
+        {"ing5":"ING Card",
+         "link5":"https://www.ing.be/en/retail/daily-banking/credit-cards/flexible-credit-card?"},
+        {
+         "ing6":"ING Payment Card",
+         "link6":"https://www.ing.be/en/business/day-to-day-banking/cards/bank-card"},
+        {
+         "ing7":"ING MasterCard Business",
+         "link7":"https://www.ing.be/en/business/day-to-day-banking/cards/credit-card-for-professional-use"}
+       ],
+"users":["An individual","A professional or a business","My child under 18"],
+"mode":["I only need to access my account online and on my mobile device","I would like the flexibility to visit a branch in addition to online and mobile"],
+"currency":["Yes, I handle multiple currencies at the same time",
+"No, I don't need any multi-currency option"]
+}
